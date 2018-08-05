@@ -1,0 +1,538 @@
+[
+    {
+        "match_pattern": "⸨⸩§7[1/5] §r§2Caravan Driver: §r§aFinally, you're awake! Everyone already went on ahead.§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "text": "[1/5] "
+                },
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.caravandriver.name"
+                },
+                {
+                    "color": "dark_green",
+                    "text": ": "
+                },
+                {
+                    "color": "green",
+                    "translate": "wynncraft.dialogue.caravandriver.quest.kingsrecruit.1.1"
+                }
+            ],
+            "text":""
+        },
+        "replacement_type": "chat",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§7[2/5] §r§2Caravan Driver: §r§aThis is as far as we go, right to the border.§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "text":"[2/5] "
+                },
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.caravandriver.name"
+                },
+                {
+                    "color": "dark_green",
+                    "text": ": "
+                },
+                {
+                    "color": "green",
+                    "translate": "wynncraft.dialogue.caravandriver.quest.kingsrecruit.1.2"
+                }
+            ],
+            "text": ""
+        },
+        "replacement_type": "chat",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§7[3/5] §r§2Caravan Driver: §r§aThe King is waiting for you in Ragni. That gate marks the entrance to the Wynn Province, so the castle can't be too far from here.§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "text":"[3/5] "
+                },
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.caravandriver.name"
+                },
+                {
+                    "color": "dark_green",
+                    "text": ": "
+                },
+                {
+                    "color": "green",
+                    "translate": "wynncraft.dialogue.caravandriver.quest.kingsrecruit.1.3"
+                }
+            ],
+            "text": ""
+        },
+        "replacement_type": "chat",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§7[4/5] §r§2Caravan Driver: §r§aI heard it's a dangerous road to the castle, but fortunately you're armed.§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "text":"[4/5] "
+                },
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.caravandriver.name"
+                },
+                {
+                    "color": "dark_green",
+                    "text": ": "
+                },
+                {
+                    "color": "green",
+                    "translate": "wynncraft.dialogue.caravandriver.quest.kingsrecruit.1.4"
+                }
+            ],
+            "text": ""
+        },
+        "replacement_type": "chat",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§7[5/5] §r§2Caravan Driver: §r§aSorry we couldn't take you all the way, here is a partial refund for the journey. Use it to buy yourself some armour.§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "text":"[5/5] "
+                },
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.caravandriver.name"
+                },
+                {
+                    "color": "dark_green",
+                    "text": ": "
+                },
+                {
+                    "color": "green",
+                    "translate": "wynncraft.dialogue.caravandriver.quest.kingsrecruit.1.5"
+                }
+            ],
+            "text": ""
+        },
+        "replacement_type": "chat",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§7[1/1] §r§2Ragni Knight: §r§aGet to the castle, we'll handle all of these undead!§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "text":"[1/1] "
+                },
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.ragniknight.name"
+                },
+                {
+                    "color": "dark_green",
+                    "text": ": "
+                },
+                {
+                    "color": "green",
+                    "translate": "wynncraft.dialogue.ragniknight.quest.kingsrecruit.1.1"
+                }
+            ],
+            "text": ""
+        },
+        "replacement_type": "chat",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "Text: §7[1/1] §r§2Ragni's King: §r§aI see you've arrived safely, new recruit. Excellent, come and talk to me for debriefing.§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "text":"[1/1] "
+                },
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.ragnisking.name"
+                },
+                {
+                    "color": "dark_green",
+                    "text": ": "
+                },
+                {
+                    "color": "green",
+                    "translate": "wynncraft.dialogue.ragnisking.quest.kingsrecruit.1.1"
+                }
+            ],
+            "text": ""
+        },
+        "replacement_type": "chat",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§7[1/7] §r§2Ragni's King: §r§aYou must be the last recruit! Finally nice to meet you. What did you say your name was?§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "text":"[1/7] "
+                },
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.ragnisking.name"
+                },
+                {
+                    "color": "dark_green",
+                    "text": ": "
+                },
+                {
+                    "color": "green",
+                    "translate": "wynncraft.dialogue.ragnisking.quest.kingsrecruit.2.1"
+                }
+            ],
+            "text": ""
+        },
+        "replacement_type": "chat",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§7[2/7] §r§2Ragni's King: §r§aWhat a peculiar name. Anyway, welcome to the province of Wynn!§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "text":"[2/7] "
+                },
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.ragnisking.name"
+                },
+                {
+                    "color": "dark_green",
+                    "text": ": "
+                },
+                {
+                    "color": "green",
+                    "translate": "wynncraft.dialogue.ragnisking.quest.kingsrecruit.2.2"
+                }
+            ],
+            "text": ""
+        },
+        "replacement_type": "chat",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§7[3/7] §r§2Ragni's King: §r§aThis is the noble fort of Ragni, one of the oldest and most influential cities in the province!§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "text":"[3/7] "
+                },
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.ragnisking.name"
+                },
+                {
+                    "color": "dark_green",
+                    "text": ": "
+                },
+                {
+                    "color": "green",
+                    "translate": "wynncraft.dialogue.ragnisking.quest.kingsrecruit.2.3"
+                }
+            ],
+            "text": ""
+        },
+        "replacement_type": "chat",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§7[4/7] §r§2Ragni's King: §r§aYour job as a soldier of Wynn is to stop the growth of the monsters that are ravaging the province.§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "text":"[4/7] "
+                },
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.ragnisking.name"
+                },
+                {
+                    "color": "dark_green",
+                    "text": ": "
+                },
+                {
+                    "color": "green",
+                    "translate": "wynncraft.dialogue.ragnisking.quest.kingsrecruit.2.4"
+                }
+            ],
+            "text": ""
+        },
+        "replacement_type": "chat",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§7[5/7] §r§2Ragni's King: §r§aYou might want to train a little more before hand, though. Many lives are lost everyday...§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "text":"[5/7] "
+                },
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.ragnisking.name"
+                },
+                {
+                    "color": "dark_green",
+                    "text": ": "
+                },
+                {
+                    "color": "green",
+                    "translate": "wynncraft.dialogue.ragnisking.quest.kingsrecruit.2.5"
+                }
+            ],
+            "text": ""
+        },
+        "replacement_type": "chat",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§7[6/7] §r§2Ragni's King: §r§a... Anyway, good luck! If you are lost, use §r§3map.wynncraft.com§r§3 §r§aas it is very useful if you don't know where to go.§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "text": "[6/7] "
+                },
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.ragnisking.name"
+                },
+                {
+                    "color": "dark_green",
+                    "text": ": "
+                },
+                {
+                    "color": "green",
+                    "translate": "wynncraft.dialogue.ragnisking.quest.kingsrecruit.2.6.1"
+                },
+                {
+                    "color": "dark_aqua",
+                    "clickEvent": {
+                        "action": "open_url",
+                        "value": "http://map.wynncraft.com"
+                    },
+                    "text":"map.wynncraft.com"
+                },
+                {
+                    "color": "dark_aqua",
+                    "text": " "
+                },
+                {
+                    "color": "green",
+                    "translate": "wynncraft.dialogue.ragnisking.quest.kingsrecruit.2.6.2"
+                }
+            ],
+            "text": ""
+        },
+        "replacement_type": "chat",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§7[7/7] §r§2Ragni's King: §r§aTake this §r§3[1 Ragni Teleportation Scroll]§r§a too! It will bring you back here if you use it.§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "text": "[7/7] "
+                },
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.ragnisking.name"
+                },
+                {
+                    "color": "dark_green",
+                    "text": ": "
+                },
+                {
+                    "color": "green",
+                    "translate": "wynncraft.dialogue.ragnisking.quest.kingsrecruit.2.7.1"
+                },
+                {
+                    "color": "dark_aqua",
+                    "text": "[1 "
+                },
+                {
+                    "color": "dark_aqua",
+                    "translate": "wynncraft.item.ragniscroll"
+                },
+                {
+                    "color": "dark_aqua",
+                    "text": "]"
+                },
+                {
+                    "color":"green",
+                    "translate": "wynncraft.dialogue.ragnisking.quest.kingsrecruit.2.7.2"
+                }
+            ],
+            "text": ""
+        },
+        "replacement_type": "chat",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§2Caravan Driver§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.caravandriver.name"
+                }
+            ],
+            "text": ""
+        },
+        "replacement_type": "entity",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§2Ragni's King§r",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "dark_green",
+                    "translate": "wynncraft.npc.ragnisking.name"
+                }
+            ],
+            "text": ""
+        },
+        "replacement_type": "entity",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§5§o§7Talk to the Caravan Driver ",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "translate": "wynncraft.item.questbook.kingsrecruit.1"
+                }
+            ],
+            "text" : ""
+        },
+        "replacement_type": "tooltip",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§5§o§7Head along the path towards ",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "translate": "wynncraft.item.questbook.kingsrecruit.2.1"
+                }
+            ],
+            "text" : ""
+        },
+        "replacement_type": "tooltip",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§5§o§7the castle ",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "translate": "wynncraft.item.questbook.kingsrecruit.2.2"
+                }
+            ],
+            "text" : ""
+        },
+        "replacement_type": "tooltip",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§5§o§7Enter the castle ",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "translate": "wynncraft.item.questbook.kingsrecruit.3"
+                }
+            ],
+            "text" : ""
+        },
+        "replacement_type": "tooltip",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    },
+    {
+        "match_pattern": "§5§o§7Talk to the King ",
+        "text_component": {
+            "extra": [
+                {
+                    "color": "gray",
+                    "translate": "wynncraft.item.questbook.kingsrecruit.4"
+                }
+            ],
+            "text" : ""
+        },
+        "replacement_type": "tooltip",
+        "ignored_languages": [
+            "en_us", "en_gb", "en_ca", "en_au", "en_nz"
+        ]
+    }
+]

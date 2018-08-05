@@ -1,0 +1,28 @@
+key.categories.textreplacer=TextReplacer
+
+key.textreplacer.nbt=Log NBT
+key.textreplacer.chat=Log Chat
+key.textreplacer.book=Log Book
+key.textreplacer.entity=Log Entity
+key.textreplacer.sign=Log Sign
+key.textreplacer.displayedsign=Log Displayed Sign
+key.textreplacer.title=Log Title
+key.textreplacer.boss=Log Boss
+key.textreplacer.item=Log Item
+key.textreplacer.playerlist=Log Player List
+
+textreplacer.lognbt.true=Log NBT When Applicable: True
+textreplacer.lognbt.false=Log NBT When Applicable: False
+textreplacer.logchat.true=Log Chat: True
+textreplacer.logchat.false=Log Chat: False
+textreplacer.logbook.true=Log Displayed Book: True
+textreplacer.logbook.false=Log Displayed Book: False
+textreplacer.logentity=Logging Loaded Entities.
+textreplacer.logsign=Logging Loaded Signs.
+textreplacer.logdisplayedsign.true=Log Displayed Signs: True
+textreplacer.logdisplayedsign.false=Log Displayed Signs: False
+textreplacer.logtitle.true=Log Title: True
+textreplacer.logtitle.false=Log Title: False
+textreplacer.logboss=Logging Loaded Bosses.
+textreplacer.logitem=Logging Hovered Item.
+textreplacer.logplayerlist=Logging Loaded Player List.
